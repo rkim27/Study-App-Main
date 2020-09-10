@@ -17,7 +17,7 @@ Edit School's Info
 ![](edit_room.gif)
 
 Add a school to the app
-![](insert
+![](insert school.gif)
 
 # Code
 Written completely in javascript (React and Express)
