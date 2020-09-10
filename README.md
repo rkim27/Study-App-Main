@@ -12,9 +12,18 @@ Main repository for a web app I built in the summer of 2020
 General usage of the app
 ![](main.gif)
 
+Edit School's Info
+![](edit_school_name.gif)
+![](edit_room.gif)
+
+Add a school to the app
+![](insert
+
 # Code
 Written completely in javascript (React and Express)
+
 Frontend Code: https://github.com/rkim27/StudySpotApp-Frontend
+
 Backend Code: https://github.com/rkim27/StudySpotApp-Backend
 
 
