@@ -11,5 +11,7 @@ Frontend Code: https://github.com/rkim27/StudySpotApp-Frontend
 
 Backend Code: https://github.com/rkim27/StudySpotApp-Backend
 
-Demo Video soon
+# Demo
+General usage of the app
 ![](main.gif)
+
