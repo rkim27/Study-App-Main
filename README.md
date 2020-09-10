@@ -10,14 +10,17 @@ Main repository for a web app I built in the summer of 2020
 
 # Demo
 General usage of the app
+
 ![](main.gif)
 
 Edit School's Info
+
 ![](edit_school_name.gif)
 ![](edit_room.gif)
 
 Add a school to the app
-![](insert school.gif)
+
+![](insert_school.gif)
 
 # Code
 Written completely in javascript (React and Express)
