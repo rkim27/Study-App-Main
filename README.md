@@ -13,16 +13,19 @@ General usage of the app
 
 ![](main.gif)
 
-Edit School's Info
+Edit School's Name
 
 ![](edit_school_name.gif)
+
+Edit Room Name
+
 ![](edit_room.gif)
 
 Add a school to the app
 
 ![](insert_school.gif)
 
-# Code
+# Source Code
 Written completely in javascript (React and Express)
 
 Frontend Code: https://github.com/rkim27/StudySpotApp-Frontend
