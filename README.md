@@ -12,3 +12,4 @@ Frontend Code: https://github.com/rkim27/StudySpotApp-Frontend
 Backend Code: https://github.com/rkim27/StudySpotApp-Backend
 
 Demo Video soon
+![](ezgif.com-video-to-gif.gif)
